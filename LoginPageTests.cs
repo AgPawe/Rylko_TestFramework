@@ -26,7 +26,7 @@ namespace Tests.RylkoTests.LoginTests
             LoginPage.PasswordRecovery(registeredEmail);
         }
 
-        private const string registeredEmail = "agato.pawelczak @gmail.com";
-        private const string unregisteredEmail = "rylkotest@gmail.com";
+        private const string registeredEmail = "rylkotest@gmail.com";
+        private const string unregisteredEmail = "rylkotest1@gmail.com";
     }
 }
