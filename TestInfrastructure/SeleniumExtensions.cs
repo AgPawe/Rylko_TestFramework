@@ -4,9 +4,7 @@ using RyłkoWeb_TestFramework.TestInfrastructure.XUnit;
 using System;
 
 namespace RyłkoWeb_TestFramework.TestInfrastructure
-{/// <summary>
-/// ////
-/// </summary>
+{
     public class SeleniumExtensions : WebDriverWrapper
     {
             protected void WaitForPageLoaded(string url = "https://www.rylko.com/", int? secondToWait = null)
