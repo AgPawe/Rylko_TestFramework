@@ -13,7 +13,7 @@ namespace Tests.RylkoTests.SearchTests
             SearchPage.SearchProduct(unavailableProduct, available: false);
         }
 
-        private const string availableProduct = "kozaki";
+        private const string availableProduct = "buty";
         private const string unavailableProduct = "okulary";
     }
 }
