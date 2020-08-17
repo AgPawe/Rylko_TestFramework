@@ -6,7 +6,7 @@ using Xunit;
 
 namespace RyłkoWeb_TestFramework.Rylko_Tests
 {
-    public partial class MainPage : BaseXUnitTest
+    public class MainPage : BaseXUnitTest
     {
         [Fact]
         public void RylkoMainPageTest()
