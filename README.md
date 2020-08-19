@@ -6,3 +6,6 @@ The test framework consists of two parts:
 a) RyłkoWeb_TestFramework, which contains the pages of the online store created in accordance with the POM design pattern convention
 
 b) Test with sample UI tests
+
+
+Test framework created using C#, Selenium and Xunit
